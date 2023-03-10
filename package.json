@@ -1,0 +1,9 @@
+{
+  "name": "api-proxy",
+  "version": "1.0.0",
+  "description": "A simple API proxy server",
+  "main": "api-proxy.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
